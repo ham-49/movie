@@ -46,6 +46,40 @@ hook을 사용하여 다양한 종류의 데이터를 가지고와 정보를 활
 ## 📌 페이지 구성 및 기능
 
 ### 🛠페이지 구성
+<table>
+  <tr>
+    <td>home-page</td>
+    <td>movie</td>
+    <td>detail-page</td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/369cefb9-997e-4597-8ada-d7f4836d49dc" />
+    </td>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/73780ae5-7972-4692-8f6a-d00f66076605" />
+    </td>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/0e49e34f-f0e2-4809-a5e6-2fe70090c2c7" />
+    </td>
+  </tr>
+  <tr>
+    <td>my-page</td>
+    <td>login-page</td>
+    <td>404 page</td>
+  </tr>
+    <tr>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/6e6f9d57-5d05-4600-b505-6384a0487b36" />
+    </td>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/92686472-9fa2-42d1-a55a-ddfc8d90a6e1" />
+    </td>
+    <td valign="top">
+      <img width="300" alt="Image" src="https://github.com/user-attachments/assets/f5ee3c25-cec4-403d-a979-ad04d2d201cc" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠 1. hook
 - **다양한 TMDB 데이터 활용**  
